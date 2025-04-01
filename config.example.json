@@ -1,0 +1,12 @@
+{
+  "instructions": "Rename this file to config.json and fill in your details",
+  "discord": {
+    "token": "your_discord_token_here",
+    "clientId": "your_client_id_here",
+    "guildId": "your_guild_id_here"
+  },
+  "gportal": {
+    "username": "your_gportal_username",
+    "password": "your_gportal_password"
+  }
+} 

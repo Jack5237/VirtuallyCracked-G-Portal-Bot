@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Logs
+console_logs.txt
+
+# Node modules
+node_modules/
+
+# Configuration files with sensitive data
+servers.json
+binds.json
+spawnbinds.json
+cooldowns.json
+
+# Any backup files
+*.bak 
