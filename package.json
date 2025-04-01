@@ -1,0 +1,29 @@
+{
+  "name": "virtually-cracked-g-portal-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for managing G-Portal Rust console servers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "register": "node register-commands.js",
+    "delete": "node delete-commands.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "rust",
+    "console",
+    "g-portal"
+  ],
+  "author": "Noah Martello",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3",
+    "puppeteer": "^19.7.4"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+} 
